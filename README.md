@@ -1,4 +1,4 @@
-# Email Spam Detection using Logistic Regression
+# Email Spam Prediction using Logistic Regression
 
 ## Overview
 
